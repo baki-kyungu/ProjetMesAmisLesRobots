@@ -1,5 +1,4 @@
 import React from "react";
-import rb from "./rb.png";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
