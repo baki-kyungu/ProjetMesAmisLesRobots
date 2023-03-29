@@ -36,7 +36,7 @@
 .card--container:hover {
   transform: scale(1.1);
   margin: 20px 20px;
-  background-color: rgba(255, 161, 38, 255);
+  background: rgba(255, 161, 38, 255);
 }
 
 .card-image {
